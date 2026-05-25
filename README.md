@@ -1,5 +1,5 @@
 # Background
-- For a Calc BC Project, I had to design a character in desmos using polar and parametric equations; and compute the total area of the figure. However, due to my graph having 300+ equations, I decided to write a python program that would use the downloadable PNG file that Desmos provides to determine the area of my shape. This project also uses @MathEnthusiast314's "export expressions from a graph" javascript code that can be found below:
+- For a Calc BC Project, I had to design a character in desmos using polar and parametric equations; and compute the total area of the figure. However, due to my graph having 250+ equations, I decided to write a python program that would use the downloadable PNG file that Desmos provides to determine the area of my shape. This project also uses @MathEnthusiast314's "export expressions from a graph" javascript code that can be found below:
 - The program uses Image Thresholding(basically just turning a png image into white and black so that it's easier to separate sections) to determine the area in the shape.
 - Keep in mind that this only works for one object at a time, so if you have multiple separated objects(like Gojo's hollow purple and Gojo's body) then you'll have to separate the images
 - The Python libraries that you'll need for this project are: Shapely, Numpy, Matplotlib, Pillow, and SciPy
