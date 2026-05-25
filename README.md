@@ -31,10 +31,14 @@ function download(data, filename, type) { // from https://github.com/SlimRunner/
     }
 }
 ```
+<hl>
 
 ## Example Images of Program
 <img width="1202" height="475" alt="Matplotlib Visual Data Analysis" src="https://github.com/user-attachments/assets/dd494373-f4ac-4a87-8973-1b37096e2a09" />
 <figcaption>This is the Matplotlib Visual Data Analysis showing the section that was calculated by the program</figcaption>
 
-<img width="438" height="810" alt="{4453C9D7-D6E0-42D4-A139-CF7E18589AC4}" src="https://github.com/user-attachments/assets/c7560ee6-33df-4a00-8b68-5976889eeee7" />
+<br>
+<br>
+
+<img width="219" height="405" alt="{4453C9D7-D6E0-42D4-A139-CF7E18589AC4}" src="https://github.com/user-attachments/assets/c7560ee6-33df-4a00-8b68-5976889eeee7" />
 <figcaption>For reference, this is the original image</figcaption>
