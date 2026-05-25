@@ -39,6 +39,16 @@ function download(data, filename, type) { // from https://github.com/SlimRunner/
 
 <br>
 <br>
+<br>
+
+<img width="1196" height="471" alt="image" src="https://github.com/user-attachments/assets/57c1610d-21df-4cfa-bfd3-82ee5237bf41" />
+<figcaption>This is the same image as above, just with the majority of the whitespace removed from the program to give a more accurate answer for the area</figcaption>
+
+<br>
+<br>
+<br>
+
 
 <img width="219" height="405" alt="{4453C9D7-D6E0-42D4-A139-CF7E18589AC4}" src="https://github.com/user-attachments/assets/c7560ee6-33df-4a00-8b68-5976889eeee7" />
-<figcaption>For reference, this is the original image</figcaption>
+<newline>
+<figcaption>For reference, this is the original desmos graph</figcaption>
